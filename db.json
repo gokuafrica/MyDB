@@ -1,15 +1,7 @@
 {
-  "posts": [
+  "rows": [
     {
-      "id": 1,
-      "title": "slowaf"
-    },
-    {
-      "id": 2,
-      "title": "fast"
+      "totalConvienceFee": "0"
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
